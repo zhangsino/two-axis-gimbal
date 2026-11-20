@@ -1,0 +1,4 @@
+{"commands": [
+  {"command": "inspect.interference", "params": {}},
+  {"command": "inspect.clearance", "params": {"clearance": 0.3}}
+]}

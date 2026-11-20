@@ -1,0 +1,219 @@
+{
+  "ok": false,
+  "steps": [
+    {
+      "step": "disc 盘体",
+      "ok": true
+    },
+    {
+      "step": "disc +X 耳轴",
+      "ok": true
+    },
+    {
+      "step": "disc -X 耳轴",
+      "ok": true
+    },
+    {
+      "step": "disc +X 插座 Ø8.2",
+      "ok": true
+    },
+    {
+      "step": "disc M3 螺母孔",
+      "ok": true
+    },
+    {
+      "step": "disc 6050 槽",
+      "ok": true
+    },
+    {
+      "step": "disc 合并",
+      "ok": true
+    },
+    {
+      "step": "hub 体 Ø18",
+      "ok": true
+    },
+    {
+      "step": "hub 销 Ø8",
+      "ok": true
+    },
+    {
+      "step": "hub 舵角孔",
+      "ok": true
+    },
+    {
+      "step": "hub 合并",
+      "ok": true
+    },
+    {
+      "step": "ring 环体",
+      "ok": true
+    },
+    {
+      "step": "ring +X 缺口",
+      "ok": true
+    },
+    {
+      "step": "ring +X 耳板",
+      "ok": true
+    },
+    {
+      "step": "ring 耳板 M2 孔",
+      "ok": false,
+      "error": "3 : 未找到要剪切或相交的目标实体！"
+    },
+    {
+      "step": "ring +Y 耳轴",
+      "ok": true
+    },
+    {
+      "step": "ring -Y 耳轴",
+      "ok": true
+    },
+    {
+      "step": "ring +Y 舵角孔",
+      "ok": true
+    },
+    {
+      "step": "ring -X M3 过孔",
+      "ok": true
+    },
+    {
+      "step": "ring -Y M3 螺母孔",
+      "ok": true
+    },
+    {
+      "step": "ring 合并",
+      "ok": true
+    },
+    {
+      "step": "frame 底板",
+      "ok": true
+    },
+    {
+      "step": "frame 腿",
+      "ok": true
+    },
+    {
+      "step": "frame 腿让位孔 Ø12.6",
+      "ok": true
+    },
+    {
+      "step": "frame 舵机耳板",
+      "ok": true
+    },
+    {
+      "step": "frame 耳板 M2 孔",
+      "ok": true
+    },
+    {
+      "step": "frame -Y 垫块",
+      "ok": true
+    },
+    {
+      "step": "frame -Y M3 孔",
+      "ok": true
+    },
+    {
+      "step": "frame 底板孔",
+      "ok": true
+    },
+    {
+      "step": "frame 腿根 R4",
+      "ok": true
+    },
+    {
+      "step": "frame 合并",
+      "ok": true
+    },
+    {
+      "step": "assembly 落位",
+      "ok": true
+    },
+    {
+      "step": "measure 校验",
+      "ok": true
+    },
+    {
+      "step": "view iso",
+      "ok": true
+    },
+    {
+      "step": "view 预览",
+      "ok": true
+    },
+    {
+      "step": "export disc",
+      "ok": true
+    },
+    {
+      "step": "export ring",
+      "ok": true
+    },
+    {
+      "step": "export frame",
+      "ok": true
+    },
+    {
+      "step": "export hub",
+      "ok": true
+    },
+    {
+      "step": "export STEP",
+      "ok": true
+    },
+    {
+      "step": "export f3d",
+      "ok": true
+    }
+  ],
+  "fillet_edges": 8,
+  "bodies": [
+    {
+      "name": "Disc",
+      "volume_mm3": 20337.2,
+      "bbox_mm": [
+        84.0,
+        80.0,
+        14.0
+      ],
+      "solid": true
+    },
+    {
+      "name": "Ring",
+      "volume_mm3": 32325.2,
+      "bbox_mm": [
+        114.0,
+        125.0,
+        14.0
+      ],
+      "solid": true
+    },
+    {
+      "name": "Frame",
+      "volume_mm3": 148113.7,
+      "bbox_mm": [
+        130.0,
+        138.0,
+        78.0
+      ],
+      "solid": true
+    },
+    {
+      "name": "Hub",
+      "volume_mm3": 3165.7,
+      "bbox_mm": [
+        18.0,
+        18.0,
+        18.0
+      ],
+      "solid": true
+    }
+  ],
+  "counts": [
+    1,
+    1,
+    1,
+    1
+  ]
+}

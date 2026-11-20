@@ -1,0 +1,686 @@
+{
+ "commands": [
+  {
+   "command": "file.new",
+   "params": {}
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 84,
+    "height": 2,
+    "base": [
+     -2,
+     0,
+     0
+    ],
+    "axis": "X",
+    "body_name": "圆盘"
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 10,
+    "height": 11,
+    "base": [
+     0,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "join",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 20,
+    "height": 2.5,
+    "base": [
+     11,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "join",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 4,
+    "height": 4,
+    "base": [
+     -3,
+     0,
+     7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 4,
+    "height": 4,
+    "base": [
+     -3,
+     0,
+     -7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2.2,
+    "height": 4,
+    "base": [
+     10.6,
+     0,
+     7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2.2,
+    "height": 4,
+    "base": [
+     10.6,
+     0,
+     -7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "圆盘"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 1.2,
+    "width": 3,
+    "height": 23,
+    "corner": [
+     13.5,
+     -1.5,
+     -11.5
+    ],
+    "body_name": "舵角"
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 6,
+    "height": 2.1,
+    "base": [
+     13.5,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "join",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 4.8,
+    "height": 4,
+    "base": [
+     13.0,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2,
+    "height": 2,
+    "base": [
+     13.3,
+     0,
+     7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2,
+    "height": 2,
+    "base": [
+     13.3,
+     0,
+     -7.62
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2,
+    "height": 2,
+    "base": [
+     13.3,
+     0,
+     5.08
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2,
+    "height": 2,
+    "base": [
+     13.3,
+     0,
+     -5.08
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵角"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 4.8,
+    "height": 3.3,
+    "base": [
+     14.7,
+     0,
+     0
+    ],
+    "axis": "X",
+    "body_name": "输出轴"
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 22.5,
+    "width": 12.7,
+    "height": 23.9,
+    "corner": [
+     18,
+     -6.35,
+     -5.65
+    ],
+    "body_name": "舵机"
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 2.5,
+    "width": 8,
+    "height": 4.75,
+    "corner": [
+     24.9,
+     -4,
+     17.8
+    ],
+    "operation": "join",
+    "targets": [
+     "舵机"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 2.5,
+    "width": 8,
+    "height": 4.75,
+    "corner": [
+     24.9,
+     -4,
+     -9.95
+    ],
+    "operation": "join",
+    "targets": [
+     "舵机"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2.2,
+    "height": 3.6,
+    "base": [
+     24.4,
+     0,
+     20.6
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵机"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 2.2,
+    "height": 3.6,
+    "base": [
+     24.4,
+     0,
+     -8.0
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "舵机"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 108,
+    "height": 12,
+    "base": [
+     -2,
+     0,
+     0
+    ],
+    "axis": "X",
+    "body_name": "环"
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 88,
+    "height": 14,
+    "base": [
+     -3,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "环"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 10,
+    "height": 10,
+    "base": [
+     4,
+     54,
+     0
+    ],
+    "axis": "Y",
+    "operation": "join",
+    "targets": [
+     "环"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 10,
+    "height": 10,
+    "base": [
+     4,
+     -64,
+     0
+    ],
+    "axis": "Y",
+    "operation": "join",
+    "targets": [
+     "环"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 12,
+    "base": [
+     4,
+     53,
+     0
+    ],
+    "axis": "Y",
+    "operation": "cut",
+    "targets": [
+     "环"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 12,
+    "base": [
+     4,
+     -65,
+     0
+    ],
+    "axis": "Y",
+    "operation": "cut",
+    "targets": [
+     "环"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 3.4,
+    "width": 96,
+    "height": 40,
+    "corner": [
+     10,
+     -48,
+     -13.7
+    ],
+    "body_name": "套子"
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 21,
+    "height": 5,
+    "base": [
+     9.5,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 28.6,
+    "width": 23.7,
+    "height": 28.7,
+    "corner": [
+     13.4,
+     -11.85,
+     -8.05
+    ],
+    "operation": "join",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 24,
+    "height": 1.6,
+    "base": [
+     13.4,
+     0,
+     0
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 27.1,
+    "width": 13.7,
+    "height": 24.7,
+    "corner": [
+     13.4,
+     -6.85,
+     -6.05
+    ],
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 28.6,
+    "width": 8,
+    "height": 2.2,
+    "corner": [
+     13.4,
+     -4,
+     -8.15
+    ],
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.box",
+   "params": {
+    "length": 3.6,
+    "width": 9,
+    "height": 2.4,
+    "corner": [
+     24.5,
+     -4.5,
+     18.5
+    ],
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 5,
+    "base": [
+     9.5,
+     46,
+     -1.7
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 5,
+    "base": [
+     9.5,
+     46,
+     14.3
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 5,
+    "base": [
+     9.5,
+     -46,
+     -1.7
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "solid.cylinder",
+   "params": {
+    "diameter": 3.4,
+    "height": 5,
+    "base": [
+     9.5,
+     -46,
+     14.3
+    ],
+    "axis": "X",
+    "operation": "cut",
+    "targets": [
+     "套子"
+    ]
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "圆盘"
+    ],
+    "color": "#4a90d9"
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "舵角"
+    ],
+    "color": "#f0a35e"
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "输出轴"
+    ],
+    "color": "#8d8d8d"
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "舵机"
+    ],
+    "color": "#cfcfcf"
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "环"
+    ],
+    "color": "#7cb342"
+   }
+  },
+  {
+   "command": "appearance.assign",
+   "params": {
+    "bodies": [
+     "套子"
+    ],
+    "color": "#b39ddb"
+   }
+  },
+  {
+   "command": "file.export_step",
+   "params": {
+    "path": "v3_assembly.step"
+   }
+  },
+  {
+   "command": "file.save_as",
+   "params": {
+    "path": "v3_assembly.sc",
+    "overwrite": true
+   }
+  }
+ ]
+}

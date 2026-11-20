@@ -1,0 +1,708 @@
+[
+  {
+    "name": "Untitled"
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "圆盘"
+    ],
+    "feature": 1,
+    "ms": 4.265334,
+    "name": "Cylinder1",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 2,
+    "ms": 52.253542,
+    "name": "Cylinder2",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 3,
+    "ms": 24.170167,
+    "name": "Cylinder3",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 4,
+    "ms": 14.630916000000001,
+    "name": "Cylinder4",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 5,
+    "ms": 16.95,
+    "name": "Cylinder5",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 6,
+    "ms": 18.487457999999997,
+    "name": "Cylinder6",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘"
+    ],
+    "changed_bodies": [
+      "圆盘"
+    ],
+    "created_bodies": [],
+    "feature": 7,
+    "ms": 19.698041,
+    "name": "Cylinder7",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "舵角"
+    ],
+    "feature": 8,
+    "ms": 1.685333,
+    "name": "Box1",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 9,
+    "ms": 17.141040999999998,
+    "name": "Cylinder8",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 10,
+    "ms": 16.320083,
+    "name": "Cylinder9",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 11,
+    "ms": 17.579375000000002,
+    "name": "Cylinder10",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 12,
+    "ms": 18.78175,
+    "name": "Cylinder11",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 13,
+    "ms": 21.253458,
+    "name": "Cylinder12",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角"
+    ],
+    "changed_bodies": [
+      "舵角"
+    ],
+    "created_bodies": [],
+    "feature": 14,
+    "ms": 23.2625,
+    "name": "Cylinder13",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "输出轴"
+    ],
+    "feature": 15,
+    "ms": 3.963625,
+    "name": "Cylinder14",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "舵机"
+    ],
+    "feature": 16,
+    "ms": 1.313125,
+    "name": "Box2",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机"
+    ],
+    "changed_bodies": [
+      "舵机"
+    ],
+    "created_bodies": [],
+    "feature": 17,
+    "ms": 5.433583,
+    "name": "Box3",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机"
+    ],
+    "changed_bodies": [
+      "舵机"
+    ],
+    "created_bodies": [],
+    "feature": 18,
+    "ms": 6.819833,
+    "name": "Box4",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机"
+    ],
+    "changed_bodies": [
+      "舵机"
+    ],
+    "created_bodies": [],
+    "feature": 19,
+    "ms": 14.088,
+    "name": "Cylinder15",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机"
+    ],
+    "changed_bodies": [
+      "舵机"
+    ],
+    "created_bodies": [],
+    "feature": 20,
+    "ms": 15.296125,
+    "name": "Cylinder16",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "环"
+    ],
+    "feature": 21,
+    "ms": 3.4993749999999997,
+    "name": "Cylinder17",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [
+      "环"
+    ],
+    "created_bodies": [],
+    "feature": 22,
+    "ms": 11.291291,
+    "name": "Cylinder18",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [
+      "环"
+    ],
+    "created_bodies": [],
+    "feature": 23,
+    "ms": 105.113,
+    "name": "Cylinder19",
+    "removed_bodies": [],
+    "warning": "the joined piece doesn't touch `环`, so `环` is now in 2 separate pieces (New Body makes it a body of its own)"
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [
+      "环"
+    ],
+    "created_bodies": [],
+    "feature": 24,
+    "ms": 124.559625,
+    "name": "Cylinder20",
+    "removed_bodies": [],
+    "warning": "the joined piece doesn't touch `环`, so `环` is now in 3 separate pieces (New Body makes it a body of its own)"
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [
+      "环"
+    ],
+    "created_bodies": [],
+    "feature": 25,
+    "ms": 32.342000000000006,
+    "name": "Cylinder21",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环"
+    ],
+    "changed_bodies": [
+      "环"
+    ],
+    "created_bodies": [],
+    "feature": 26,
+    "ms": 44.235,
+    "name": "Cylinder22",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [],
+    "created_bodies": [
+      "套子"
+    ],
+    "feature": 27,
+    "ms": 1.35875,
+    "name": "Box5",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 28,
+    "ms": 11.424916,
+    "name": "Cylinder23",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 29,
+    "ms": 14.40375,
+    "name": "Box6",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 30,
+    "ms": 27.297709,
+    "name": "Cylinder24",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 31,
+    "ms": 20.00825,
+    "name": "Box7",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 32,
+    "ms": 20.192541000000002,
+    "name": "Box8",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 33,
+    "ms": 19.708917,
+    "name": "Box9",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 34,
+    "ms": 27.540125,
+    "name": "Cylinder25",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 35,
+    "ms": 31.504375,
+    "name": "Cylinder26",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 36,
+    "ms": 35.239667000000004,
+    "name": "Cylinder27",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "bodies": [
+      "圆盘",
+      "舵角",
+      "输出轴",
+      "舵机",
+      "环",
+      "套子"
+    ],
+    "changed_bodies": [
+      "套子"
+    ],
+    "created_bodies": [],
+    "feature": 37,
+    "ms": 39.079207999999994,
+    "name": "Cylinder28",
+    "removed_bodies": [],
+    "warning": null
+  },
+  {
+    "appearance": {
+      "color": "#4a90d9",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "圆盘"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "appearance": {
+      "color": "#f0a35e",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "舵角"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "appearance": {
+      "color": "#8d8d8d",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "输出轴"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "appearance": {
+      "color": "#cfcfcf",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "舵机"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "appearance": {
+      "color": "#7cb342",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "环"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "appearance": {
+      "color": "#b39ddb",
+      "name": "Custom",
+      "opacity": 1.0
+    },
+    "bodies": [
+      "套子"
+    ],
+    "components": [],
+    "faces": []
+  },
+  {
+    "bytes": 402163,
+    "format": "Step",
+    "path": "v3_assembly.step"
+  },
+  {
+    "bytes": 482797,
+    "name": "v3_assembly",
+    "path": "v3_assembly.sc"
+  }
+]

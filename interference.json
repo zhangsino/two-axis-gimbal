@@ -1,0 +1,317 @@
+[
+ {
+  "axis": "x",
+  "deg": -40,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -40,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -30,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -30,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -20,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -20,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -10,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": -10,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 0,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 0,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 10,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 10,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 20,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 20,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 30,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 30,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 40,
+  "a": "disc",
+  "b": "ring",
+  "vox": 0
+ },
+ {
+  "axis": "x",
+  "deg": 40,
+  "a": "disc",
+  "b": "servo1",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -40,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -40,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -40,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -30,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -30,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -30,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -20,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -20,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -20,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -10,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -10,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": -10,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 0,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 0,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 0,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 10,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 10,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 10,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 20,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 20,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 20,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 30,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 30,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 30,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 40,
+  "a": "ring",
+  "b": "frame",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 40,
+  "a": "ring",
+  "b": "servo2",
+  "vox": 0
+ },
+ {
+  "axis": "y",
+  "deg": 40,
+  "a": "servo1",
+  "b": "frame",
+  "vox": 0
+ }
+]
